@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ayeechikah.trowbridgejkd.com/sitemap.xml
